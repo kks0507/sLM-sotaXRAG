@@ -9,4 +9,5 @@
 - Milvus
 - Qdrant
 - Chroma
+- FAISS
 
